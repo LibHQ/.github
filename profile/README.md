@@ -35,7 +35,7 @@ Since we don't hold any copyrights, we don't enforce any licensing on our projec
 If you have any questions or suggestions, feel free to reach out:
 
 - **Email**: Coming soon!
-- **Twitter**: [@Coming Soon!](https://twitter.com/example)
+- **X**: [@LBYSoftware](https://x.com/LBYSoftware)
 
 Join us on this fun journey of software development!
 
